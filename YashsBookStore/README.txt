@@ -15,4 +15,8 @@
 >Reviewed the route pattern in Startyp.cs
 
 3nd March 2023
+3:14PM
 >Confirmed the repository and running it for test.
+
+3:35PM
+>Created another README.md file from github and pulled it through local computer and tested it.
