@@ -20,3 +20,8 @@
 
 3:35PM
 >Created another README.md file from github and pulled it through local computer and tested it.
+
+4:08PM
+>went to bootswash.com website to pick a theme for this amazing bookstore.
+>picked one and replaced current bootstrap lib to new one.
+>old-one has new name now for back-up purpose (bootstrap_bk.cs)
