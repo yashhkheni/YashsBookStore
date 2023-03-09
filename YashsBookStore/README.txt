@@ -25,3 +25,10 @@
 >went to bootswash.com website to pick a theme for this amazing bookstore.
 >picked one and replaced current bootstrap lib to new one.
 >old-one has new name now for back-up purpose (bootstrap_bk.cs)
+
+9th March 2023
+2:32PM
+>Trying to add dropdown menu for my bookstore using bootswash. Visiting bootswash website now.
+
+2:51PM
+>Trying to add navigation dropdown menu but unfortunatly it is not working gotta need some help i think......
