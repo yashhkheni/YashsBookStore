@@ -32,3 +32,7 @@
 
 2:51PM
 >Trying to add navigation dropdown menu but unfortunatly it is not working gotta need some help i think......
+
+3:09PM
+>oh yes!!!!, Got it all right to make it work dropdown menu is now working
+>aria-labelledby="navbarDropdownMenuLink" it was this line that needed to be add in html code
