@@ -23,7 +23,7 @@
 
 4:08PM
 >went to bootswash.com website to pick a theme for this amazing bookstore.
->picked one and replaced current bootstrap lib to new one.
+>picked one and replaced current bootstrap lib to new one. (Morph Theme)
 >old-one has new name now for back-up purpose (bootstrap_bk.cs)
 
 9th March 2023
