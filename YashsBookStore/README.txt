@@ -52,3 +52,9 @@
 3:32PM
 >Follwing the Tutorial deleted the data folder and pasted to the .DataAccess and then ran the command> dotnet add package Microsoft.EntityFrameworkCore.SqlServer and then deleted the Migration folder.
 >Now commiting to the github but before commiting the orignal i will be backing up my this project.
+
+3:50PM
+>Installed Microsoft.EntityFrameworkCore.Relational and Core.SqlServer packages and then
+>Installed NuGet package:- Identity.EntityFrameworkCore and after that
+>Modified the namespace toreflect the project and of course last step before build
+>Deleted default Class1.cs file in all projects
