@@ -48,3 +48,7 @@
 
 3:25PM
 >Created another Class Library called YashsBookStore.Utility
+
+3:32PM
+>Follwing the Tutorial deleted the data folder and pasted to the .DataAccess and then ran the command> dotnet add package Microsoft.EntityFrameworkCore.SqlServer and then deleted the Migration folder.
+>Now commiting to the github but before commiting the orignal i will be backing up my this project.
