@@ -42,3 +42,6 @@
 >1.4 Add and Modify Project
 >Just Added one new project through solution file and named it as YashsBookStore.DataAccess
 >Now going Forward....to commit the changes to github
+
+3:23PM
+>Created another Class Library called YashsBookStore.Models

@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YashsBookStore", "YashsBook
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YashsBookStore.DataAccess", "YashsBookStore.DataAccess\YashsBookStore.DataAccess.csproj", "{F4220C8C-24BB-482A-A6A5-F150222E2B01}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YashsBookStore.Models", "YashsBookStore.Models\YashsBookStore.Models.csproj", "{B97C63DC-74C2-4221-A231-A2841040A7DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F4220C8C-24BB-482A-A6A5-F150222E2B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4220C8C-24BB-482A-A6A5-F150222E2B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4220C8C-24BB-482A-A6A5-F150222E2B01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B97C63DC-74C2-4221-A231-A2841040A7DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B97C63DC-74C2-4221-A231-A2841040A7DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B97C63DC-74C2-4221-A231-A2841040A7DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B97C63DC-74C2-4221-A231-A2841040A7DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
